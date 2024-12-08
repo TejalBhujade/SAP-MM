@@ -13,7 +13,7 @@ The PO_QRY custom report (T-Code: PU07) takes inputs like PO number, supplier, m
 
 ![image](https://github.com/user-attachments/assets/e5788a0f-18d8-4627-9f90-13ddc61b7a13)
 
-![image](https://github.com/user-attachments/assets/d2a3ddc2-db05-4a12-ac7b-d3a666ccba8d)
+![image](https://github.com/user-attachments/assets/f0b98bfb-1284-44f4-8062-3828cb371ff1)
 
 OUTPUT 
 
