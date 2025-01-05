@@ -1,0 +1,21 @@
+MIN_MAX_REORDER_CHECK
+
+
+Report Name
+
+MIN_MAX_REORDER_CHECK
+
+
+T-code
+
+ZMM_MINMAX
+
+
+
+
+
+
+
+
+
+
